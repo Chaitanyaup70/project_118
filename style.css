@@ -1,0 +1,25 @@
+body{
+    background-image: url("https://picjumbo.com/wp-content/uploads/abstract-lines-and-stripes-background-free-photo.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+h1{
+    font-size: 50px;
+    background-color: black;
+    color: lightblue;
+}
+button{
+    border-radius: 20px;
+    width: 100px;
+    height: 30px;
+    background-color: blue;
+}
+#show{
+    float: right;
+}
+
+canvas{
+    margin: 50px;
+    background-color: black;
+}
